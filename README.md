@@ -18,7 +18,7 @@ Who doesn't love chocolate chip cookies?  Heathens!
 * egg 1 large
 * chocolate chips 100
 
-##Instructions
+## Instructions
 
 1. Sift together the Dry Ingredients.
 2. Cream the butter the sugars, and vanilla together until fluffy. Best in a mixer with the paddle, but by hand is fine too (check out the guns on you!).
